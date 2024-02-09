@@ -3,23 +3,13 @@
 layout: home
 
 hero:
-  name: "My Awesome Project"
-  text: "A VitePress Site"
-  tagline: My great project tagline
+  name: "周旭的博客🌈"
+  text: "  "
+  tagline: "It doesn't matter how many times you fail. What matters is how many times you stand up and try again.   "
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
-
-features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
----
-
+      text: 开 始 （￣︶￣）↗
+      link: /
+    - theme: brand
+      text: 我 (￣▽￣)~*
+      link: /me.md  
