@@ -1,0 +1,1 @@
+import{_ as t,c as a,o as e}from"./chunks/framework.--NMbU3Q.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"JavaScript/发布订阅模式.md","filePath":"JavaScript/发布订阅模式.md"}'),r={name:"JavaScript/发布订阅模式.md"};function c(o,_,s,n,p,i){return e(),a("div")}const f=t(r,[["render",c]]);export{m as __pageData,f as default};

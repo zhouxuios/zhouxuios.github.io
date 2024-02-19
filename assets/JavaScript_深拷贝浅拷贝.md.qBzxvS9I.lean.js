@@ -1,0 +1,1 @@
+import{_ as t,c as a,o as e}from"./chunks/framework.--NMbU3Q.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"JavaScript/深拷贝浅拷贝.md","filePath":"JavaScript/深拷贝浅拷贝.md"}'),r={name:"JavaScript/深拷贝浅拷贝.md"};function c(o,_,s,n,p,i){return e(),a("div")}const f=t(r,[["render",c]]);export{m as __pageData,f as default};

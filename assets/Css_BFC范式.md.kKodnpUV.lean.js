@@ -1,0 +1,1 @@
+import{_ as a,c as e,o as l,V as t}from"./chunks/framework.--NMbU3Q.js";const C=JSON.parse('{"title":"BFC范式","description":"","frontmatter":{},"headers":[],"relativePath":"Css/BFC范式.md","filePath":"Css/BFC范式.md"}'),o={name:"Css/BFC范式.md"},i=t("",11),s=[i];function c(n,r,b,h,f,d){return l(),e("div",null,s)}const _=a(o,[["render",c]]);export{C as __pageData,_ as default};
