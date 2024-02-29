@@ -1,0 +1,1 @@
+import{_ as t,c as a,o as e}from"./chunks/framework.--NMbU3Q.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"JavaScript/ES6新特性.md","filePath":"JavaScript/ES6新特性.md"}'),r={name:"JavaScript/ES6新特性.md"};function c(o,s,n,p,_,i){return e(),a("div")}const f=t(r,[["render",c]]);export{m as __pageData,f as default};

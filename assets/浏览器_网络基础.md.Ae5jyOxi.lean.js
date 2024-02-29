@@ -1,0 +1,1 @@
+import{_ as i,c as l,o as t,V as a}from"./chunks/framework.--NMbU3Q.js";const m=JSON.parse('{"title":"OSI模型","description":"","frontmatter":{},"headers":[],"relativePath":"浏览器/网络基础.md","filePath":"浏览器/网络基础.md"}'),e={name:"浏览器/网络基础.md"},o=a("",8),r=[o];function s(c,n,p,_,h,d){return t(),l("div",null,r)}const S=i(e,[["render",s]]);export{m as __pageData,S as default};
